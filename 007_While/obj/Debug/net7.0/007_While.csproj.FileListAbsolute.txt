@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\bin\Debug\net7.0\007_While.exe
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\bin\Debug\net7.0\007_While.deps.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\bin\Debug\net7.0\007_While.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\bin\Debug\net7.0\007_While.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\bin\Debug\net7.0\007_While.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\refint\007_While.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\007_While.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\007_While\obj\Debug\net7.0\ref\007_While.dll
