@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\bin\Debug\net7.0\005_If.exe
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\bin\Debug\net7.0\005_If.deps.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\bin\Debug\net7.0\005_If.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\bin\Debug\net7.0\005_If.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\bin\Debug\net7.0\005_If.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\refint\005_If.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\005_If.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\005_If\obj\Debug\net7.0\ref\005_If.dll
