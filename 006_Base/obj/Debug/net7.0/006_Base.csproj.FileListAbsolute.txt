@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\bin\Debug\net7.0\006_Base.exe
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\bin\Debug\net7.0\006_Base.deps.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\bin\Debug\net7.0\006_Base.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\bin\Debug\net7.0\006_Base.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\bin\Debug\net7.0\006_Base.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\refint\006_Base.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\006_Base.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\006_Base\obj\Debug\net7.0\ref\006_Base.dll
