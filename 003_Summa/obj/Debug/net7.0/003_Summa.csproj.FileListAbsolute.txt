@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\bin\Debug\net7.0\003_Summa.exe
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\bin\Debug\net7.0\003_Summa.deps.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\bin\Debug\net7.0\003_Summa.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\bin\Debug\net7.0\003_Summa.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\bin\Debug\net7.0\003_Summa.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\refint\003_Summa.dll
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.pdb
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\003_Summa.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\Языки\C#\Лекции\Lesson1\003_Summa\obj\Debug\net7.0\ref\003_Summa.dll
